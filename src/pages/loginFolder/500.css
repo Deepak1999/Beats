@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css?family=Lato|Roboto+Slab");
+
+
+.centered {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  margin-bottom: 50px;
+  font-family: "Lato", sans-serif;
+  font-size: 50px;
+}
+
+.message {
+  display: inline-block;
+  line-height: 1.2;
+  transition: line-height 0.2s, width 0.2s;
+  overflow: hidden;
+}
+
+.message,
+.hidden {
+  font-family: "Roboto Slab", serif;
+  font-size: 18px;
+}
+
+.hidden {
+  color: #fff;
+}
+
+/* button css */
+.bn13 {
+  display: inline-block;
+  padding: 0.65em 1.6em;
+  border: 3px solid #ffffff;
+  margin: 0 0.3em 0.3em 0;
+  border-radius: 0.12em;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Roboto", sans-serif;
+  font-weight: 300;
+  color: #ffffff;
+  text-align: center;
+  transition: all 0.2s;
+  animation: bn13bouncy 5s infinite linear;
+  position: relative;
+}
+
+.bn13:hover {
+  background-color: white;
+  color: #000000;
+}
+
+@keyframes bn13bouncy {
+  0% {
+    top: 0em;
+  }
+  40% {
+    top: 0em;
+  }
+  43% {
+    top: -0.9em;
+  }
+  46% {
+    top: 0em;
+  }
+  48% {
+    top: -0.4em;
+  }
+  50% {
+    top: 0em;
+  }
+  100% {
+    top: 0em;
+  }
+}
+/* button css */

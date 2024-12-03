@@ -1,0 +1,49 @@
+#med_slct .css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root,#vald_slct .css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root{
+    border-radius: 4px 0 0 4px;
+  }
+  
+  #med_slct .css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root,#vald_slct .css-1yk1gt9-MuiInputBase-root-MuiOutlinedInput-root-MuiSelect-root{
+    border-radius:0 4px 4px 0;
+  }
+  
+  #med_slct .css-14lo706 span,#vald_slct .css-14lo706 span{
+    display: none;
+  }
+  
+  .css-jedpe8-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input{
+    height: 1.4375em !important;
+  }
+  
+  #vald_slct .MuiFormControl-root{
+    width: auto !important;
+      min-width: auto !important;
+  }
+  
+  #radio .css-1nrlq1o-MuiFormControl-root{
+    display: block !important;
+  }
+  
+  #radio .css-j204z7-MuiFormControlLabel-root{
+    margin: 0 !important;
+    width: 100% !important;
+    flex-basis: 0;
+  }
+  
+  /* #radio .css-ahj2mt-MuiTypography-root{
+    width: 100% !important;
+  } */
+  
+  #radio .css-dmmspl-MuiFormGroup-root{
+    flex-direction: row;
+  }
+  
+  #row .css-1u3bzj6-MuiFormControl-root-MuiTextField-root.ms-4{
+    margin: 0 !important;
+  }
+  #row .css-1u3bzj6-MuiFormControl-root-MuiTextField-root.w-75{
+    width: 100% !important;
+  }
+  
+  #col_none{
+    display: none;
+  }

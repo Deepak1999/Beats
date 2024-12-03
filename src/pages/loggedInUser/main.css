@@ -1,0 +1,871 @@
+html,body{
+    overflow:unset !important;
+}
+.badge.rounded-pill.bg-primary {
+    background-color: #fff!important;
+    color: #48a8dd;
+    width: 30%;
+        border: 1px solid #48a8dd!important;
+            padding: 0.55em 0.9em !important;
+                font-size: 15px !important;
+}
+.badge.rounded-pill.bg-primary.w_50{
+    width: 50%;
+}
+.badge.rounded-pill.bg-primary, .card.shadow-none.border {
+    border: 1px solid #48a8dd!important;
+}
+.mt-n3 {
+    margin-top: 1rem!important;
+}
+.bg_blue {
+    background-color: #f7fcff !important;
+}
+.card {
+    box-shadow: 4px 4px 6px 4px rgba(0,0,0,.1),4px 2px 4px 4px rgb(0 0 0/6%)!important;
+}
+#create_expense .css-i4bv87-MuiSvgIcon-root, #expense_details .css-i4bv87-MuiSvgIcon-root{
+    color: #000;
+}
+.css-13i0q32{
+    border: none !important;
+}
+.tabs_8 .css-1h9z7r5-MuiButtonBase-root-MuiTab-root{
+        display: block;
+    line-height: normal !important;
+    min-height: auto !important;
+    background: #e2eaee;
+    margin:0 8px !important;
+    position: relative !important;
+}
+.green_badge{
+    /* z-index: 999 !important; */
+    top: 75px !important;
+    left: 730px !important;
+}
+.green_badge_1{
+    /* z-index: 999 !important; */
+    top: 75px !important;
+    left: 565px !important;
+}
+
+
+.green_badge_2{
+    /* z-index: 999 !important; */
+    top: 75px !important;
+    left: 207px !important;
+}
+
+
+.green_badge_3 {
+    top: 75px !important;
+    left: 338px !important; 
+}
+
+
+.green_badge_4 {
+    top: 164px !important;
+    left: 346px !important;
+}
+
+
+
+.green_badge_5 {
+    top: 164px !important;
+    left: 200px !important;
+}
+
+
+.row.short_amt_row {
+    margin: 0 -8px;
+}
+
+.row.short_amt_row > * {
+    padding: 0 8px;
+}
+
+
+
+
+@media(max-width:1430px){.row.short_amt_row p, .row.short_amt_row span {
+    font-size: 11px !important;
+}}
+
+
+ 
+.css-1h9z7r5-MuiButtonBase-root-MuiTab-root.Mui-selected{
+        background-color: #1976d2 !important;
+    border-color: #1976d2 #1976d2 #1976d2;
+    border-bottom: 3px solid #2e98d4;
+    color: white !important;
+}
+.tabs_8 .css-1ujnqem-MuiTabs-root{
+    min-height: auto !important;
+}
+.css-13i0q32{
+    margin: 0 !important;
+    padding: 50px 30px !important;
+}
+.myClass{
+    width: 83px !important;
+    height: 83px !important;
+}
+.para1 p{
+    color: #fff;
+    margin: 0;
+}
+.css-13i0q32{
+    display: block !important;
+}
+#active_logs .col-md-6{
+    display: flex;
+    flex-direction: column;
+}
+#active_logs .col-md-6 .card{
+    height: 100% !important;
+}
+.myClass{
+    /* background-color: #fff !important; */
+    margin: 0 auto;
+}
+.myClass span{
+    margin: auto !important;
+}
+/* #example.mytableClass tbody tr td:nth-child(2){
+    width: 118px !important;
+
+} */
+
+.purchase label{
+    font-size: 11px ;
+}
+.w_227{
+     width:184px !important
+}
+#example.mytableClass tbody tr td:nth-child(2) div{
+width: 251px !important;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}
+.btn-close:focus{
+    box-shadow: none !important;
+}
+.css-1hskriy{
+    width: 100%;
+}
+
+
+
+.col_size_16 {
+     width :14% !important ;
+}
+
+.imgClass {
+      width: 21%
+}
+
+
+.img_small {
+margin: 0px auto;
+    width: 53%;
+    margin-top: 20px;
+}
+
+
+div.modal{
+    z-index: 999;
+}
+
+
+
+
+
+#create_expense1  .css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.MuiSelect-select {
+   min-height:0rem  ;
+height:13px !important
+}
+
+
+
+
+#create_expense1  .fi_clas {
+    width: fit-content;
+}
+
+#create_expense1 .fa {
+    position: relative;
+    display: table-cell;
+    width: 21px;
+    height: 19px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 20px;
+    color: white;
+}
+
+div.modal-backdrop.fade.show{
+    z-index: unset;
+}
+
+/* #menu-appbar{
+    visibility: unset !important;
+
+            background: rgba(0,0,0,0.4);
+} */
+.css-l5sf1n-MuiBackdrop-root{
+        z-index: 9999 !important;
+}
+
+.coor_black {
+    background-color: rgb(255, 140, 0) !important;
+
+     
+}
+
+.white_color {
+     background-color:  white !important;
+}
+.greenColor {
+     background-color:  green !important  ;
+     border : 3px solid #75b575 !important
+}
+
+
+
+.mt_0-1 {
+      margin-top:"-1px" !important
+}
+ 
+.grey_color  {
+     background: rgb(209, 209, 209) !important;
+     border :3px solid rgb(236,236,236) !important
+}
+
+.red_color {
+     background-color:  rgb(255, 0, 0) !important;
+     border :3px solid #d99d9d !important;
+
+}
+
+
+.vendor_button  {
+        width: 105%;
+    height: 50%;
+    font-size: x-small  !important;
+    color: white !important;
+}
+
+.col_white {
+    color:white !important;
+    font-size: 11px !important;
+}
+
+.margin_top{
+    margin-top: -1% !important;
+}
+/*--hierarchy-design--*/
+#hierarchy .myClass svg,#hierarchy .myClass > p{
+margin: auto !important;
+}
+#hierarchy .myClass svg{
+        font-size: 21px !important;
+}
+#hierarchy .myClass{
+    position: relative;
+    width: 31px !important;
+    height: 31px !important;
+    padding: 27px !important;
+}
+
+
+
+.loader_text {
+        display: block;
+    padding-top: 199px;
+    text-align: center;
+}
+ 
+
+
+#hierarchy .greenClass {
+    position: relative;
+    width: 31px !important;
+    height: 31px !important;
+    padding: 27px !important;
+}
+
+.greenClass{
+    background-color: #fff !important;
+    margin: 0 auto;
+}
+.greenClass span{
+    margin: auto !important;
+}
+
+.greenClass{
+    width: 83px !important;
+    height: 83px !important;
+}
+
+
+
+
+.spn_txt{
+    min-width: 1rem;
+    max-width: 1rem;
+    /* margin: 0px 3px auto 0; */
+    left: -16px;
+  }
+  h3{
+    font-weight: 600;
+    position: relative;
+  }
+  .spn_logo{
+    width: 1rem;
+  }
+  .spn_txt.spn_logo {
+    width: 0.94rem !important;
+    min-width: auto;
+    max-width: fit-content;
+    left: -17px;
+    top: 1px;
+}
+.before_box p::before, .p_before_box::before{
+  content: '\2022';
+  display: inline-block;
+  font-size: 23px;
+  vertical-align: middle;
+  height: 1em;
+  line-height: 0.85em;
+  margin-right: 3px;
+}
+
+
+.MuiBox-root.css-1mrcau4{
+    display: block;
+}
+/*--scrollbar-design--*/
+.scrollbar::-webkit-scrollbar {
+    height: 20px;
+}
+.scrollbar::-webkit-scrollbar-thumb {
+    background: #48a8dd;
+    border-radius: 10px;
+}
+
+.scrollbar::-webkit-scrollbar-track {
+    background: #fff;
+    box-shadow: inset 0 0 5px grey;
+    border-radius: 10px;
+}
+
+
+#expense_details .col-6 p{
+    margin: 0 !important;
+
+}
+
+.text_right {
+     text-align:  right !important;
+}
+
+
+.reject_border {
+         border: solid 2px red !important;
+    padding:11px 2px 0px 0px;
+}
+
+
+.query_border  {
+         border: solid 2px rgb(12, 27, 240) !important;
+    padding:11px 2px 0px 0px;
+}
+
+nav#myId.main-menu {
+    transition: all 1s;
+}
+
+.box_withd {
+            min-height: 318px;
+    height: 318px;
+    overflow: scroll;
+    overflow: scroll;
+}
+
+
+
+.MuiBreadcrumbs-ol {
+     margin-left: 40px !important;
+}
+
+
+.css-1iekt2w-MuiFormLabel-root-MuiInputLabel-root {
+
+    line-height: 1em !important;
+}
+
+.MuiBreadcrumbs-li {
+     margin-left: -9px;
+}
+
+/*--x-scrollbar-design-x--*/
+/*--x-hierarchy-design-x--*/
+
+
+
+.form-control:focus+.form-label,.form-control:not(:placeholder-shown)+.form-label {
+    transform: translateY(-1.5rem) scale(.8)!important;
+    font-size: 1rem!important;
+    color: #000!important;
+    border: none!important;
+    margin-top: -2%!important;
+}
+
+
+.m_138px {
+     margin-left:107px !important;
+
+}
+
+
+
+
+.color_change {
+     background-color: white !important;
+}
+
+
+
+ .css-ancrnh-MuiButtonBase-root-MuiIconButton-root 
+{
+     margin-right: 10px !important;
+}
+
+
+.dateLabel {
+        margin-bottom: -10px;
+    z-index: 1;
+    font-size: small;
+}
+
+
+
+input[type=number] {
+  --moz-appearance: textfield ;
+}
+
+
+
+.cursor_ {
+      cursor: pointer  !important;
+}
+.file_note{
+      font-size:  x-small;
+
+color:black
+}
+.col-md-3 {
+  display: flex;
+  flex-direction: column;
+}
+
+.col-md-3 label {
+  white-space: nowrap; /* Prevent label text from wrapping */
+  overflow: hidden; /* Hide any overflow */
+  text-overflow: ellipsis; /* Show ellipsis (...) for overflow text */
+}
+
+.col-md-3 a {
+  white-space: normal; /* Allow link text to wrap */
+  overflow: hidden; /* Hide any overflow */
+  text-overflow: ellipsis; /* Show ellipsis (...) for overflow text */
+  margin-top: 5px; /* Add some space between label and link */
+}
+
+
+
+.col-md-3  a {
+  white-space: normal; /* Allow link text to wrap */
+  overflow: hidden; /* Hide any overflow */
+  text-overflow: ellipsis; /* Show ellipsis (...) for overflow text */
+  margin-top: 5px; /* Add some space between label and link */
+}
+
+
+
+#controlled-demo11 {
+     padding  : 0px !important
+}
+
+#controlled-dem22o {
+  
+        font-size: small ;
+}
+
+
+
+#controlled-dem22o1{
+    padding  : 0px !important  ;  
+}
+#controlled-dem2o {
+     font-size: small;
+}
+
+
+.controlled-dem22o-listBox {
+     width:100px !important
+}
+
+
+
+
+#controlled-demo16-listbox{
+    width:250px  !important;
+    font-size: small;
+    overflow: visible;
+}
+
+
+.controlled-dem22o-listBox {
+    width:100px !important
+}
+
+
+
+
+.controlled-demo11-listbox {
+     width:100px  !important ;
+}
+
+
+/* muskan 11oct css start */
+.css-1xnbq41-MuiAutocomplete-root .MuiOutlinedInput-root.MuiInputBase-sizeSmall .MuiAutocomplete-input {
+    /* padding: 0px !important; */
+    /* font-size: 12px !important; */
+}
+.css-1s5lphu-MuiPopper-root-MuiAutocomplete-popper {
+    width: unset !important;
+}
+/* .select-project-input.input-focused {
+    font-size: 12px !important;
+} */
+.select_project .css-19qh8xo-MuiInputBase-input-MuiOutlinedInput-input {
+    font-size: 12px !important;
+ }
+
+
+
+.newClass_amount  {
+    text-align: right;
+    align-content: space-evenly;
+}
+/* muskan 11oct css end */
+
+
+/* .controlled-demo16-listbox {
+    width:100px  !important ;
+} */
+ .newStyle {
+       white-space: normal; /* Allow link text to wrap */
+  overflow: hidden; /* Hide any overflow */
+  text-overflow: ellipsis; /* Show ellipsis (...) for overflow text */
+  margin-top: 5px; /* Add some space between label and link */
+}
+.react-datepicker__input-container {
+    position: relative !important;
+}
+.dateLabel {
+    position: absolute !important;
+    top: 20px !important;
+    background: #fff !important;
+    max-width: calc(133% - 32px) !important;
+    left: 65px !important;
+    padding: 0px 8px !important;
+}
+.fonts{
+    font-size: 11px !important;
+}
+
+.react-datepicker__input-container input {
+    font-size: 11px !important;
+}
+.hey label {
+    font-size: 11px !important;
+}
+.table-responsive thead th {
+    font-size: 13px !important;
+    font-family: 'open sans',sans-serif !important; 
+}
+.table-responsive tbody td {
+    font-size: 13px !important;
+    font-family: 'open sans',sans-serif !important; 
+}
+.badge.rounded-pill.bg-primary {
+    font-size: 13px !important;
+}
+ .numbers {
+    font-size: 11px !important;
+    font-family: 'open sans',sans-serif !important; 
+}
+
+
+.tabs_8  button  {
+      text-transform:  capitalize !important;
+}
+.controlled-demo label{
+    font-size: 11px !important;
+}
+.btn .blue {
+    font-size: 11px !important;
+    margin-right: 15px !important;
+}
+.capexLabel {
+    font-size: 11px !important;
+}
+.data .smallLabel {
+    font-size: 11px; /* Adjust the font size as needed */
+  }
+.custom-select-font input {
+    font-size: 11px ;
+}
+.expense_div.row .MuiInputBase-input.MuiOutlinedInput-input{
+    padding: 0.375rem 0.75rem !important;
+}
+.expense_div.row .css-15w6ewo-MuiFormLabel-root-MuiInputLabel-root, .expense_div.row .css-1iekt2w-MuiFormLabel-root-MuiInputLabel-root, .expense_div.row .css-15w6ewo-MuiFormLabel-root-MuiInputLabel-root{
+    font-size: 11px !important;
+    top: -9px;
+    line-height: 1em !important;
+}
+
+.expense_div.row .css-15w6ewo-MuiFormLabel-root-MuiInputLabel-root{
+    top: -1px !important;
+}
+
+.expense_div.row > * {
+    margin: 8px 0 !important;
+}
+.expense_div.row .react-datepicker-wrapper{
+    width: 100%;
+}
+.vendor_button {
+    color: green !important;
+    cursor: pointer;
+    font-size: 14px !important;
+}
+.css-1ii1e3y-MuiFormLabel-root-MuiInputLabel-root.Mui-focused {
+    font-size: 14px !important;
+    top: -1px !important;
+}
+.less {
+    margin-top: -1.5% !important;
+}
+.hny .more_padding {
+    padding-bottom: 0px !important;
+}
+.blue_grey {
+    margin-top: 0% !important;
+}
+.css-i4bv87-MuiSvgIcon-root {
+    font-size: 1.1rem !important;
+}
+.arrows_style {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+}
+.css-1n4twyu-MuiInputBase-input-MuiOutlinedInput-input:invalid {
+   font-size: 12px !important;
+}
+.css-1n4twyu-MuiInputBase-input-MuiOutlinedInput-input:focus {
+    font-size: 13px !important;
+}
+/* .css-1ii1e3y-MuiFormLabel-root-MuiInputLabel-root {
+    padding-right: 18px !important;
+    padding-left: 7px !important;
+    width: 105px !important;
+    background-color: #fff !important;
+   
+} */
+
+.card {
+    box-shadow: 0px -2px 11px 0px rgba(0,0,0,.1),4px 2px 4px 4px rgb(0 0 0/6%) !important;
+}
+.css-19qh8xo-MuiInputBase-input-MuiOutlinedInput-input {
+    width: 100% !important;
+}
+
+
+.class_size .css-78trlr-MuiButtonBase-root-MuiIconButton-root{
+    padding : 0px  !important ;
+}
+.padd tbody td {
+    padding: 0px !important;
+    /* vertical-align: middle !important;
+    text-align: center !important; */
+}
+/* .small_1 tbody td {
+    vertical-align: middle !important;
+    text-align: center !important;
+} */
+.lavel label {
+    font-size: 11px !important;
+}
+.css-1qxw4jt-MuiInputBase-root-MuiOutlinedInput-root {
+    font-size: 11px !important;
+}
+/* .expense_lable .css-1ii1e3y-MuiFormLabel-root-MuiInputLabel-root{
+    z-index: 0 !important;
+} */
+.label_root .dateLabel{
+    top: -9px !important;
+    left: 10px !important;
+    font-size: 11px;
+}
+.label_root .react-datepicker-wrapper{
+display: block;
+}
+div.modal-backdrop.fade.show{
+    z-index: 2;
+}
+.rs-picker-toggle .rs-picker-toggle-placeholder {
+    font-size: 11px !important;
+}
+.textual label {
+    font-size: 14px !important;
+}
+.textual input {
+    font-size: 11px !important;
+}
+.textual_1 label {
+    font-size: 11px !important;
+}
+.heyaa label {
+    font-size: 11px !important;
+}
+#hierarchy .myClass svg {
+    margin-top: -15px !important;
+    margin-left: -15px !important;
+    font-size: 29px !important;
+}
+.lavel .input-focused {
+    font-size: 11px !important;
+}
+
+#controlled-demo1-listbox  {
+    font-size: 11px !important;
+}
+#controlled-demo-listbox {
+    font-size: 11px !important;
+}
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root  {
+    font-size: 11px !important;
+}
+.rs-picker-toggle-textbox {
+    font-size: 11px !important;
+}
+.coor_black {
+    background-color: #ff8c00 !important;
+    border: 3px solid #ffcc8d !important;
+}
+.coor_black svg {
+    font-size: 11px !important;
+}
+.css-j204z7-MuiFormControlLabel-root .MuiFormControlLabel-label {
+    font-size: 11px !important;
+}
+/* #hierarchy .myClass {
+    border: #ff8c00 !important;
+} */
+
+
+.widht_class{
+    /* width: 118px; */
+    max-width: 69px;
+  }
+.react_input_col .react-datepicker-wrapper{
+    display: block;
+}
+.expense_row{
+    margin: 0 -17px;
+}
+.expense_row > *{
+    padding: 0 17px !important;
+}
+.main_info.row > *, .expense_row > *{
+margin: 8px 0 !important;
+}
+.main_info  span{
+    font-size: 13px;
+    /* margin: 8px 0.75rem; */
+    display: block;
+}
+#create_expense input, #create_expense input::placeholder, #create_expense input, #create_expense .MuiSelect-select.MuiSelect-outlined.MuiInputBase-input, #create_expense .css-15w6ewo-MuiFormLabel-root-MuiInputLabel-root {
+    font-size: 11px;
+}
+.radio_label_col .css-vqmohf-MuiButtonBase-root-MuiRadio-root{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
+.select_project .css-q8hpuo-MuiFormControl-root,.select_project .css-1xnbq41-MuiAutocomplete-root,.select_project .css-wb57ya-MuiFormControl-root-MuiTextField-root,.select_project .css-154xyx0-MuiInputBase-root-MuiOutlinedInput-root{
+    height: 100% !important;
+}
+
+.modal_daterange .rs-picker-menu{
+    z-index: 1000 !important;
+}
+/*--menu design--*/
+.beats_menu_design .dropdown-menu{
+    width: 216px;
+    background: #000;
+    left: 100% !important;
+top: 0 !important;
+display:none !important;
+transform: none !important;
+}
+.beats_menu_design li.dropdown:hover .dropdown-menu, .beats_menu_design .dropdown-menu.show{
+display: block !important;
+}
+.main-menu{
+    overflow: unset !important;
+}
+.beats_menu_design .dropdown-menu span{
+    width: 100%;
+    background-color: transparent !important;
+}
+.beats_menu_design .dropdown > a{
+    padding: 0 !important;
+}
+.beats_menu_design .dropdown > a i{
+    width: auto !important;
+    height: auto !important;
+    background-color: transparent !important;
+    padding: 6px 0.75rem 6px 0.75rem;
+    display: block;
+}
+.beats_menu_design .dropdown > a:hover i, .beats_menu_design .dropdown > a i.active_class{
+    background-color: #1976d2 !important;
+}
+/*--x-menu design-x--*/
+/*--navigation design--*/
+.o_hidden{
+    overflow: hidden;
+}
+.navig_images a{
+    transition: transform 1.3s;
+}
+.navig_images a:hover img{
+transform: scale(1.1);
+}
+.navig_images.row > *{
+    /* margin: 6px 100px; */
+}
+@media(max-width:667px){
+    .navig_images.row{
+        margin: 0 -3px;
+    }
+    .navig_images.row > *{
+        padding: 0 3px;
+    }
+}
+/*--x-navigation design-x--*/

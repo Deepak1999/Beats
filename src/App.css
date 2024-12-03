@@ -1,0 +1,38 @@
+.text-start {
+    text-align: center !important;
+}
+
+
+
+.margin_left {
+     margin-left : 250px ;
+}
+
+
+.no_margin  {
+     margin-left:55px 
+}
+.transition_dinbe {
+     transition: all 0.8s;
+}
+
+
+#webpack-dev-server-client-overlay-div {
+     display: none !important;
+}
+
+
+
+
+iframe#webpack-dev-server-client-overlay {
+    display: none !important;
+}
+
+
+
+
+@media only screen and (max-width: 667px) {
+.no_margin  {
+     margin-left:0px 
+}
+}

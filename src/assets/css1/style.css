@@ -1,0 +1,232 @@
+html,body { 
+    font-family: 'Poppins', sans-serif;
+    color:#000; 
+    margin:0; 
+    padding: 0; 
+    font-size:14px; 
+    background-color: #d9d9ee;
+    /* overflow: unset !important; */
+}
+/*--global-tags-and-global-classes--*/
+h1,h2,p,h3,h4,h5,h6,ul,li,ol{
+    margin:0;
+    padding:0;
+}
+ul,ol{
+    list-style-type: none;
+}
+a,a:hover{
+    color:#000;
+    text-decoration: none;
+}
+/*--x-global-tags-and-global-classes-x--*/
+.card_8{
+    border: 1px solid #48a8dd;
+}
+.box_8{
+    font-size: 0.75em;
+    font-weight: 700;
+    background-color: #ffffff;
+    color: #48a8dd;
+    border: 1px solid #48a8dd;
+    width: 30%;
+    border-radius: 50rem !important;
+    padding: 0.55em 0.9em;
+    text-transform: uppercase !important;
+}
+.mt_n3{
+    margin-top: -1rem !important;
+}
+.inpt{
+    width: 31%;
+}
+.i_8{
+    background-image: linear-gradient(195deg,#abe1ff,#2191d0);
+    color: #fff;
+    border-radius: 0.75rem;
+    font-size: 1.5rem;
+}
+.mt_n4{
+    margin-top: -1.5rem;
+}
+.btn_8{
+    background-color: #1990d0;
+    color: #fff;
+}
+.d_flex span{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.file_8,.file_8:focus{
+    border: none;
+    background: none;
+    color: #fff;
+}
+.label_8{
+    background-color: rgb(25, 118, 210) !important;
+    border-radius: 4px;
+}
+.modal-header{
+    background: #0d6efd;
+    color: #fff;
+}
+.modal-body h6{
+    font-size: 1.5rem;
+}
+.w_46{
+    width: 46%;
+}
+#exmplModal{
+    color:#f3052e;
+}
+#exmplModal .col-4 h6,.inpt_8{
+    font-size: 14px !important;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+#exmplModal .ms-5{
+    margin-left:8rem !important;
+}
+.w_100{
+    width: 100%;
+}
+#exmplModal{
+    padding: 0 15px !important;
+}
+.modal-dialog{
+    margin: 1.75rem auto;
+}
+
+
+#demo-simple-select {
+    height:13px !important
+}
+.bg-primary {
+ background-color: #1976d2  !important;
+}  
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.Mui-disabled {
+    opacity: 1;
+    -webkit-text-fill-color: rgba(0, 0, 0, 0.38);
+      /* color: black !important */
+}
+.css-1n4twyu-MuiInputBase-input-MuiOutlinedInput-input.Mui-disabled {
+    opacity: 1;
+    /* -webkit-text-fill-color: rgba(0, 0, 0, 0.38); */
+    color: rgb(60, 60, 60) !important;
+}
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.Mui-disabled {
+       color: rgb(60, 60, 60) !important;
+}
+
+.css-1ii1e3y-MuiFormLabel-root-MuiInputLabel-root.Mui-disabled  {
+       color: rgb(60, 60, 60) !important;
+}
+.css-11u53oe-MuiSelect-select-MuiInputBase-input-MuiOutlinedInput-input.Mui-disabled {
+    color:rgb(60, 60, 60) !important;
+}
+
+
+.text-start {
+    text-align: center !important;
+}
+
+
+
+.margin_left {
+     margin-left : 250px ;
+}
+
+
+.no_margin  {
+     margin-left:55px 
+}
+.transition_dinbe {
+     transition: all 0.8s;
+}
+.css-1u2w381-MuiModal-root-MuiDrawer-root {
+     width :55px  !important;
+ 
+}
+
+
+
+tr th{
+     text-align: left !important;
+}
+
+
+  .file-upload-container {
+    /* border: 2px dashed #ccc; */
+    padding: 0;
+    cursor: pointer;
+  }
+
+  .file-upload-container label{
+    height: 185px;
+    font-size: 31px;
+    border: 2px dashed #ccc;
+  }
+
+
+
+  #webpack-dev-server-client-overlay-div {
+     display: none !important;
+  }
+
+
+/*--media-query--*/
+@media(max-width:1024px){
+    
+}
+@media(max-width:991px){
+    
+}
+@media(max-width:667px){
+    .mx-5{
+        margin:0.6rem 0 !important;
+    }
+    .d_flex{
+        flex-direction: column;
+    }
+    .spn{
+        width: 58%;
+    }
+    .spn_1{
+        width: 100%;
+    }
+    .inpt{
+        width: 100%;
+    }
+    .d_flex.align-items-center{
+        align-items: unset !important;
+    }
+    .box_8{
+        width: 62%;
+    }
+    .ms_auto{
+        margin-left:auto;
+    }
+    .my_4{
+        margin: 1.5rem 0;
+    }
+    .modal{
+        padding: 0 15px;
+    }
+    .modal-dialog {
+        width: 100%;
+        /* margin: auto; */
+    }
+    .form-control.w-50{
+        width: 100% !important;
+    }
+    #exmplModal .ms-5{
+        margin-left:4rem !important;
+    }
+}
+/*--x-media-query-x--*/
+
+/*--26/10/2023--*/
+
+/*--x-26/10/2023-x--*/

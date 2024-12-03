@@ -1,0 +1,195 @@
+/*--shobhit--*/
+/* html,body{
+    font-family: 'Poppins', sans-serif;
+    color: #000;  
+    margin: 0;     
+    font-size: 14px;  
+    padding: 0 !important;   
+    background-color: #d9d9ee;                               
+} */
+/*--global-tags-and-global-classes--*/
+/* h1,h2,p,h3,h4,h5,h6.ul,li,ol{
+    margin: 0;
+    padding: 0;
+}
+ul,ol{
+    list-style-type: none;
+}
+a,a:hover{
+    color: #000;
+    text-decoration: none;
+} */
+/*--global-tags-and-global-classes--*/
+/*--form-section--*/
+/* #modal_popup .ttl_bx{
+  width: 64px;
+  height: 64px;
+  border-radius: 0.75rem;
+  background-image: linear-gradient(195deg, #abe1ff 0%, #2191d0 100%);
+  box-shadow: 0 4px 20px 0 rgb(0 0 0 / 14%), 0 7px 10px -5px rgb(255 145 208 / 40%);
+  z-index: 9;
+}
+#modal_popup .ttl_bx i{
+  font-size: 1.5rem;
+  color: #fff;
+}
+#modal_popup .form_card{
+  width: 100%;
+}
+#modal_popup .form_card .card_8{
+  border: 1px solid #3c8dbc !important;
+}
+#modal_popup .form_card .w_30{
+  background-color: #ffffff !important;
+  color: #3c8dbc;
+  border: 1px solid #3c8dbc !important;
+  width: 30%;
+  padding: 0.55em 0.9em;
+  border-radius: 50rem !important;
+  font-size: 0.75em;
+  font-weight: 700;
+}
+#modal_popup .form_card .mt_n3{
+    margin-top: -1rem !important;
+}
+#modal_popup .form_card .w-25 button,.form_card .form-control,.title_8 p{
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+#modal_popup .mt_n4{
+  margin-top: -2.3rem !important;
+}
+#modal_popup .bg_blue {
+  background-color: #f7fcff !important;
+} */
+/*--x-form-section-x--*/
+
+/*--17/07/2023--*/
+/*--popup-section--*/
+#modal_popup .file-upload-container {
+  position: relative;
+}
+#modal_popup .file-upload-container input {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  opacity: 0;
+}
+#modal_popup .file a {
+  color: blue !important;
+}
+#modal_popup .body_1 .nav-pills li {
+  width: 151px;
+  flex: 0 0 auto;
+  margin: 0 8px !important;
+}
+#modal_popup #pills-tab .nav-link {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 100%;
+  color: rgba(0, 0, 0, 0.6);
+}
+
+#modal_popup .body_1 .nav-pills .nav-link.active, #modal_popup .body_1 .nav-pills .show>.nav-link {
+  /* border-bottom: 2px solid #000; */
+  background-color: #1976d2 !important;
+    border-color: #1976d2 #1976d2 #1976d2;
+    border-bottom: 3px solid #2e98d4;
+    color: white !important;
+}
+#modal_popup .body_1 button.nav-link {
+    color: #000;
+    border-radius: 0;
+    display: block;
+    line-height: normal !important;
+    min-height: auto !important;
+    background: #e2eaee;
+    border-bottom: 3px solid #e2eaee;
+}
+#modal_popup .body_1 .o_auto_div {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+#modal_popup .file-upload-container .fa-upload{
+  font-size: 23px;
+}
+#modal_popup .file-upload-container label > div > div{
+  font-size: 17px !important;
+  white-space: normal;
+}
+#modal_popup .file-upload-container label > div > div >span{
+  color: blue;
+}
+#modal_popup.modal{
+  padding: 15px !important;
+}
+#modal_popup.modal.show{
+  display: flex !important;
+}
+#modal_popup .modal-dialog{
+  max-width: 100%;
+  width: 290px;
+}
+#modal_popup .anchor_files{
+  margin: 0 -1rem;
+}
+#modal_popup .anchor_files > button{
+  margin: 8px 1rem;
+  text-transform: capitalize;
+  display: flex;
+  align-items: center;
+}
+#modal_popup .o_auto{
+  overflow: auto;
+}
+#modal_popup .file-upload-container > label{
+  height: 185px;
+  font-size: 31px;    
+  border: 2px dashed #ccc;
+}
+/* .o_auto::-webkit-scrollbar {
+  height: 8px;
+}
+.o_auto::-webkit-scrollbar-thumb {
+  background: #0d6efd;
+  border-radius: 10px;
+}
+
+.o_auto::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+} */
+
+/*--media-query--*/
+@media(min-width:668px){
+  #modal_popup .modal-dialog{
+    width: 578px;
+  }
+}
+@media(max-width:1024px){
+  
+}
+@media(max-width:991px){
+  
+}
+@media(max-width:667px){
+  #modal_popup .file-upload-container label > div > div {
+    font-size: 14px !important;
+  }
+  /* #modal_popup .form_card .w_30 {
+    width: 90%;
+  } */
+  /* #modal_popup .form_card .w_30.ms-5 {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  } */
+  #modal_popup .anchor_files > button{
+    font-size: 12px;
+  }
+}
+/*--x-media-query-x--*/
+  
+  /*--x-shobhit-x--*/

@@ -1,0 +1,16 @@
+{
+  
+    "rules":{
+      "eqeqeq": "off",
+      "jsx-a11y/alt-text":"off",
+      "react-hooks/rules-of-hooks":"off",
+      "react-hooks/exhaustive-deps":"off",
+  
+      "no-console": "off",        // Allows using console.log
+    "react/prop-types": "off",  // Disable PropTypes warnings
+    "no-unused-vars": "off",    // Disable unused variable warnings
+    "react/no-deprecated": "off"
+    }
+    
+  }
+  
